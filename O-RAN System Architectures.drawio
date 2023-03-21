@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T09:21:58.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="gWtzFNt4p8bBgitIgxYw" version="21.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-21T09:38:27.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="XTaF6lvhtMFnsmMazNXQ" version="21.0.2" type="github" pages="6">
   <diagram id="GCTNkGHxwYppjVdPjIny" name="ALL - Development Status">
     <mxGraphModel dx="1377" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1678,12 +1678,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jziRhfqqeuHN_Tqmmfqm" name="Demo">
-    <mxGraphModel dx="656" dy="379" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="950" dy="549" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wfOE_p0901A361m5NAL--17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="356" width="90" height="100" as="geometry" />
+          <mxGeometry x="426" y="390" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="4" width="236" height="110" as="geometry" />
@@ -1692,7 +1692,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="604" y="188" />
-              <mxPoint x="604" y="316" />
+              <mxPoint x="604" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1706,40 +1706,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--4" value="OAI CU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="236" width="90" height="40" as="geometry" />
+          <mxGeometry x="426" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfOE_p0901A361m5NAL--6" target="wfOE_p0901A361m5NAL--17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="464" y="346" as="targetPoint" />
+            <mxPoint x="466" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="469" y="346" />
-              <mxPoint x="469" y="346" />
+              <mxPoint x="471" y="380" />
+              <mxPoint x="471" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--6" value="OSC DU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="296" width="90" height="40" as="geometry" />
+          <mxGeometry x="426" y="330" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--8" value="Free5GC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="626" y="236" width="90" height="40" as="geometry" />
+          <mxGeometry x="628" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wfOE_p0901A361m5NAL--12" target="wfOE_p0901A361m5NAL--14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--12" value="RU Simulator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="376" width="80" height="30" as="geometry" />
+          <mxGeometry x="431" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--14" value="UE Simulator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="416" width="80" height="30" as="geometry" />
+          <mxGeometry x="431" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--18" value="TM500" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="416" y="351" width="60" height="30" as="geometry" />
+          <mxGeometry x="418" y="385" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--21" value="F1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="449" y="271" width="60" height="30" as="geometry" />
+          <mxGeometry x="451" y="305" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--22" value="FHI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="452" y="331" width="60" height="30" as="geometry" />
+          <mxGeometry x="454" y="365" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wfOE_p0901A361m5NAL--25" target="wfOE_p0901A361m5NAL--26">
           <mxGeometry relative="1" as="geometry" />
@@ -1793,7 +1793,7 @@
           <mxGeometry x="82" y="360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--45" value="E2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="214" width="30" height="18" as="geometry" />
+          <mxGeometry x="600" y="241" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--50" value="E2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="168" y="250" width="60" height="30" as="geometry" />
@@ -1806,19 +1806,19 @@
             <mxPoint x="360" y="320" as="sourcePoint" />
             <mxPoint x="362" y="62" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="316" />
+              <mxPoint x="340" y="350" />
               <mxPoint x="340" y="59" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--47" value="O1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="196" width="60" height="30" as="geometry" />
+          <mxGeometry x="318" y="194" width="20" height="14" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--61" value="A1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="433" y="122" width="26" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="wfOE_p0901A361m5NAL--62" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;透過SMO的UI設定Slice數量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402" y="12" width="156" height="20" as="geometry" />
+        <mxCell id="wfOE_p0901A361m5NAL--62" value="透過SMO的UI設定Slice、PRB數量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="644" y="4" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--63" value="SMO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="362" y="6" width="36" height="18" as="geometry" />
@@ -1826,8 +1826,8 @@
         <mxCell id="wfOE_p0901A361m5NAL--64" value="Near-RT RIC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="356" y="142" width="82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wfOE_p0901A361m5NAL--65" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;用grafana串接InfluxDB&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;1. Throughput per UE &amp;amp; per slice&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;2. D&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;edicated PRB quota和Shared PRB quota在每個Slice的使用率&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="369" y="164" width="218" height="62" as="geometry" />
+        <mxCell id="wfOE_p0901A361m5NAL--65" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;用grafana串接InfluxDB&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;1. Throughput per UE &amp;amp; per slice&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;2. D&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;edicated PRB quota和Shared PRB quota在每個Slice的使用率&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="644" y="148" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wfOE_p0901A361m5NAL--66" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="369" y="58" width="127" height="50" as="geometry" />
@@ -1842,6 +1842,12 @@
               <mxPoint x="478" y="136" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wfOE_p0901A361m5NAL--69" value="Grafana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="178" width="54" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wfOE_p0901A361m5NAL--70" value="InfluxDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="204" width="54" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
